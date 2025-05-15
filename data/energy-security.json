@@ -1,0 +1,7 @@
+[
+    {"id":"USA","name":"United States","price":110,"reliability":99.95,"carbonIntensity":386,"population":330},
+    {"id":"DEU","name":"Germany","price":160,"reliability":99.997,"carbonIntensity":350,"population":83},
+    {"id":"CHN","name":"China","price":60,"reliability":99.95,"carbonIntensity":550,"population":1400},
+    {"id":"IND","name":"India","price":70,"reliability":93,"carbonIntensity":700,"population":1380},
+    {"id":"NGA","name":"Nigeria","price":90,"reliability":50,"carbonIntensity":400,"population":206}
+  ]

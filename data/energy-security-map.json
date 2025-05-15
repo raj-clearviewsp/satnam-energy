@@ -1,0 +1,152 @@
+[
+    {
+      "id": "USA",
+      "name": "United States",
+      "year": 2020,
+      "importDependency": 8.4,
+      "supplierConcentration": 0.24,
+      "geopoliticalRisk": 23.6,
+      "overallVulnerability": 25.7,
+      "energyMix": {
+        "renewable": 12,
+        "nuclear": 8,
+        "fossil": 80
+      },
+      "priceShocks": [
+        { "year": "2019", "percent": 12 },
+        { "year": "2021", "percent": 28 }
+      ],
+      "hedgingStrategies": [
+        "Increase strategic petroleum reserves",
+        "Diversify LNG import sources",
+        "Accelerate domestic renewable deployment"
+      ]
+    },
+    {
+      "id": "DEU",
+      "name": "Germany",
+      "year": 2020,
+      "importDependency": 63.7,
+      "supplierConcentration": 0.58,
+      "geopoliticalRisk": 42.1,
+      "overallVulnerability": 72.3,
+      "energyMix": {
+        "renewable": 19,
+        "nuclear": 11,
+        "fossil": 70
+      },
+      "priceShocks": [
+        { "year": "2020", "percent": 18 },
+        { "year": "2022", "percent": 36 }
+      ],
+      "hedgingStrategies": [
+        "Diversify natural gas suppliers",
+        "Accelerate renewable energy deployment",
+        "Develop floating LNG import capacity"
+      ]
+    },
+    {
+      "id": "JPN",
+      "name": "Japan",
+      "year": 2020,
+      "importDependency": 88.1,
+      "supplierConcentration": 0.42,
+      "geopoliticalRisk": 35.9,
+      "overallVulnerability": 68.4,
+      "energyMix": {
+        "renewable": 10,
+        "nuclear": 6,
+        "fossil": 84
+      },
+      "priceShocks": [
+        { "year": "2018", "percent": 22 },
+        { "year": "2021", "percent": 32 }
+      ],
+      "hedgingStrategies": [
+        "Diversify LNG supply contracts",
+        "Restart nuclear power plants",
+        "Increase renewable energy targets"
+      ]
+    },
+    {
+      "id": "USA",
+      "name": "United States",
+      "year": 2021,
+      "importDependency": 7.8,
+      "supplierConcentration": 0.22,
+      "geopoliticalRisk": 22.1,
+      "overallVulnerability": 24.2
+    },
+    {
+      "id": "DEU",
+      "name": "Germany",
+      "year": 2021,
+      "importDependency": 65.2,
+      "supplierConcentration": 0.61,
+      "geopoliticalRisk": 44.3,
+      "overallVulnerability": 74.8
+    },
+    {
+      "id": "JPN",
+      "name": "Japan",
+      "year": 2021,
+      "importDependency": 86.9,
+      "supplierConcentration": 0.39,
+      "geopoliticalRisk": 34.5,
+      "overallVulnerability": 66.2
+    },
+    {
+      "id": "USA",
+      "name": "United States",
+      "year": 2022,
+      "importDependency": 7.1,
+      "supplierConcentration": 0.19,
+      "geopoliticalRisk": 20.8,
+      "overallVulnerability": 22.5
+    },
+    {
+      "id": "DEU",
+      "name": "Germany",
+      "year": 2022,
+      "importDependency": 63.9,
+      "supplierConcentration": 0.55,
+      "geopoliticalRisk": 48.7,
+      "overallVulnerability": 73.6
+    },
+    {
+      "id": "JPN",
+      "name": "Japan",
+      "year": 2022,
+      "importDependency": 85.3,
+      "supplierConcentration": 0.37,
+      "geopoliticalRisk": 33.2,
+      "overallVulnerability": 64.3
+    },
+    {
+      "id": "USA",
+      "name": "United States",
+      "year": 2023,
+      "importDependency": 6.5,
+      "supplierConcentration": 0.17,
+      "geopoliticalRisk": 19.6,
+      "overallVulnerability": 21.3
+    },
+    {
+      "id": "DEU",
+      "name": "Germany",
+      "year": 2023,
+      "importDependency": 60.8,
+      "supplierConcentration": 0.49,
+      "geopoliticalRisk": 45.2,
+      "overallVulnerability": 69.7
+    },
+    {
+      "id": "JPN",
+      "name": "Japan",
+      "year": 2023,
+      "importDependency": 83.7,
+      "supplierConcentration": 0.35,
+      "geopoliticalRisk": 31.8,
+      "overallVulnerability": 62.1
+    }
+  ]

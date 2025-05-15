@@ -1,0 +1,7 @@
+[
+    {"country":"United States","gdpPerCapita":65000,"energyPerCapita":12000,"region":"North America","population":330},
+    {"country":"China","gdpPerCapita":10500,"energyPerCapita":4000,"region":"Asia","population":1400},
+    {"country":"Germany","gdpPerCapita":46000,"energyPerCapita":7000,"region":"Europe","population":83},
+    {"country":"India","gdpPerCapita":2000,"energyPerCapita":1000,"region":"Asia","population":1380},
+    {"country":"Brazil","gdpPerCapita":8500,"energyPerCapita":2500,"region":"South America","population":212}
+  ]

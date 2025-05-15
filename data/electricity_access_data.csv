@@ -1,0 +1,202 @@
+Entity,Code,Year,Access to electricity (% of population),Region,HDI,Extreme_poverty_%
+Afghanistan,AFG,2022,85.3,Asia,0.496,
+Albania,ALB,2022,100,Europe,0.81,0.021277364
+Algeria,DZA,2022,100,Africa,0.763,0
+Angola,AGO,2022,48.5,Africa,0.616,31.122005
+Antigua and Barbuda,ATG,2022,100,North America,0.851,
+Argentina,ARG,2022,100,South America,0.865,
+Armenia,ARM,2022,100,Asia,0.811,0.7810783
+Aruba,ABW,2022,99.9,North America,,
+Australia,AUS,2022,100,Oceania,0.958,0.49709398
+Austria,AUT,2022,100,Europe,0.93,0.4858222
+Azerbaijan,AZE,2022,100,Asia,0.789,0
+Bahrain,BHR,2022,100,Middle East,0.899,
+Bangladesh,BGD,2022,99.4,Asia,0.685,5.008496
+Barbados,BRB,2022,100,North America,0.811,
+Belarus,BLR,2022,100,Europe,0.824,0
+Belgium,BEL,2022,100,Europe,0.951,0.02996537
+Belize,BLZ,2022,98.6,North America,0.721,19.556927
+Benin,BEN,2022,56.5,Africa,0.515,12.723279
+Bermuda,BMU,2022,100,North America,,
+Bhutan,BTN,2022,100,Asia,0.698,0.001538848
+Bolivia,BOL,2022,99.9,South America,,1.9645011
+Bosnia and Herzegovina,BIH,2022,100,Europe,0.804,0.074978754
+Botswana,BWA,2022,75.9,Africa,0.731,15.426243
+Brazil,BRA,2022,100,South America,0.786,3.5053015
+Brunei,BRN,2022,100,Asia,,
+Bulgaria,BGR,2022,100,Europe,0.845,0.69914126
+Burkina Faso,BFA,2022,19.5,Africa,0.459,25.277073
+Burundi,BDI,2022,10.3,Africa,0.439,62.06576
+Cambodia,KHM,2022,92.3,Asia,0.606,
+Cameroon,CMR,2022,71,Africa,0.588,22.99222
+Canada,CAN,2022,100,North America,0.939,0.24863754
+Cape Verde,CPV,2022,97.1,Africa,,4.5642314
+Cayman Islands,CYM,2022,100,North America,,
+Central African Republic,CAF,2022,15.7,Africa,0.414,65.66651
+Chad,TCD,2022,11.7,Africa,0.416,30.845234
+Chile,CHL,2022,100,South America,0.878,0.39505082
+China,CHN,2022,100,Asia,0.797,0
+Colombia,COL,2022,100,South America,0.788,6.036548
+Comoros,COM,2022,89.9,Africa,0.603,18.643723
+Congo,COG,2022,50.6,Africa,0.649,35.357456
+Costa Rica,CRI,2022,100,North America,0.833,0.88261974
+Croatia,HRV,2022,100,Europe,0.889,0.3080042
+Cuba,CUB,2022,100,North America,0.762,
+Cyprus,CYP,2022,100,Europe,0.913,0.00530347
+Czechia,CZE,2022,100,Europe,0.915,0.059850585
+Democratic Republic of Congo,COD,2022,21.5,Africa,,78.94202
+Denmark,DNK,2022,100,Europe,0.962,0.15367964
+Djibouti,DJI,2022,65,Africa,0.513,19.079206
+Dominica,DMA,2022,100,North America,0.761,
+Dominican Republic,DOM,2022,98.1,North America,0.776,0.75717556
+East Timor,TLS,2022,99.7,Asia,,24.443077
+Ecuador,ECU,2022,100,South America,0.777,3.7984307
+Egypt,EGY,2022,100,Africa,0.754,1.4670148
+El Salvador,SLV,2022,100,North America,0.678,3.363398
+Equatorial Guinea,GNQ,2022,67,Africa,0.674,
+Eritrea,ERI,2022,55.4,Africa,0.503,
+Estonia,EST,2022,100,Europe,0.905,0.30924037
+Eswatini,SWZ,2022,82.3,Africa,,36.07985
+Ethiopia,ETH,2022,55,Africa,0.497,26.984606
+Fiji,FJI,2022,92,Oceania,0.731,1.3182689
+Finland,FIN,2022,100,Europe,0.948,0.021342963
+France,FRA,2022,100,Europe,0.92,0.056357384
+French Polynesia,PYF,2022,100,Oceania,,
+Gabon,GAB,2022,93.5,Africa,0.733,2.468642
+Gambia,GMB,2022,65.4,Africa,0.524,17.242134
+Georgia,GEO,2022,100,Asia,0.844,4.268949
+Germany,DEU,2022,100,Europe,0.959,0.24379632
+Ghana,GHA,2022,85.1,Africa,0.628,25.208553
+Gibraltar,GIB,2022,100,Europe,,
+Greece,GRC,2022,100,Europe,0.908,0.56709486
+Greenland,GRL,2022,100,North America,,
+Grenada,GRD,2022,94.2,North America,0.791,0.31790403
+Guam,GUM,2022,100,Oceania,,
+Guatemala,GTM,2022,99.1,North America,0.662,9.521302
+Guinea,GIN,2022,47.7,Africa,0.5,13.8201
+Guinea-Bissau,GNB,2022,37.4,Africa,0.514,25.962856
+Guyana,GUY,2022,93,South America,0.776,11.897037
+Haiti,HTI,2022,49.3,North America,0.554,57.87614
+Honduras,HND,2022,94.4,North America,0.645,12.742991
+Hong Kong,HKG,2022,100,Asia,,
+Hungary,HUN,2022,100,Europe,0.87,0.4015956
+Iceland,ISL,2022,100,Europe,0.972,0
+India,IND,2022,99.2,Asia,0.685,12.917313
+Indonesia,IDN,2022,100,Asia,0.728,1.8155379
+Iran,IRN,2022,100,Middle East,,0.46844715
+Iraq,IRQ,2022,100,Middle East,0.695,0.08875247
+Ireland,IRL,2022,100,Europe,0.949,0.063545495
+Isle of Man,IMN,2022,100,Europe,,
+Israel,ISR,2022,100,Middle East,0.919,0.2422214
+Italy,ITA,2022,100,Europe,0.915,0.8145304
+Jamaica,JAM,2022,100,North America,0.72,0.30976602
+Japan,JPN,2022,100,Asia,0.925,0.72788787
+Jordan,JOR,2022,100,Middle East,0.754,0.040854882
+Kazakhstan,KAZ,2022,100,Asia,0.837,0.017695257
+Kenya,KEN,2022,76,Africa,0.628,36.146057
+Kiribati,KIR,2022,94.4,Oceania,0.644,1.6780767
+Kosovo,OWID_KOS,1999,100,Europe,,0.4402413
+Kuwait,KWT,2022,100,Middle East,0.852,
+Kyrgyzstan,KGZ,2022,99.7,Asia,0.72,0.31051716
+Laos,LAO,2022,100,Asia,,7.1383624
+Latvia,LVA,2022,100,Europe,0.889,0.39730492
+Lebanon,LBN,2022,100,Middle East,0.752,0
+Lesotho,LSO,2022,50,Africa,0.55,32.39991
+Liberia,LBR,2022,31.8,Africa,0.51,27.617746
+Libya,LBY,2022,70,Africa,0.721,
+Liechtenstein,LIE,2022,100,Europe,0.938,
+Lithuania,LTU,2022,100,Europe,0.895,0.25060093
+Luxembourg,LUX,2022,100,Europe,0.922,0.050036773
+Madagascar,MDG,2022,36.1,Africa,0.487,80.73006
+Malawi,MWI,2022,14,Africa,0.517,70.0606
+Malaysia,MYS,2022,100,Asia,0.819,0
+Maldives,MDV,2022,100,Asia,0.766,0
+Mali,MLI,2022,53,Africa,0.419,20.849255
+Malta,MLT,2022,100,Europe,0.924,0.25567448
+Marshall Islands,MHL,2022,100,Oceania,0.733,0.85434437
+Mauritania,MRT,2022,49,Africa,0.563,5.354673
+Mauritius,MUS,2022,100,Africa,0.806,0.12531371
+Mexico,MEX,2022,100,North America,0.789,1.1796793
+Micronesia (country),FSM,2022,85.3,Oceania,,16.028437
+Moldova,MDA,2022,100,Europe,,0
+Monaco,MCO,2022,100,Europe,,
+Mongolia,MNG,2022,100,Asia,0.747,0.2234101
+Morocco,MAR,2022,100,Africa,0.71,1.4431101
+Mozambique,MOZ,2022,33.2,Africa,0.493,74.52835
+Namibia,NAM,2022,56.2,Africa,0.665,15.617013
+Nauru,NRU,2022,100,Oceania,0.703,1.6715107
+Nepal,NPL,2022,91.3,Asia,0.622,0.36659858
+Netherlands,NLD,2022,100,Europe,0.955,0.06971744
+New Caledonia,NCL,2022,100,Oceania,,
+New Zealand,NZL,2022,100,Oceania,0.938,
+Nicaragua,NIC,2022,86.5,North America,0.706,3.9410286
+Niger,NER,2022,19.5,Africa,0.419,50.613815
+Nigeria,NGA,2022,60.5,Africa,0.56,30.863297
+North Korea,PRK,2022,54.7,Asia,,
+North Macedonia,MKD,2022,100,Europe,0.815,2.6633506
+Northern Mariana Islands,MNP,2022,100,Oceania,,
+Norway,NOR,2022,100,Europe,0.97,0.15653396
+Oman,OMN,2022,100,Middle East,0.858,
+Pakistan,PAK,2022,95,Asia,0.544,4.932448
+Palau,PLW,2022,100,Oceania,0.786,
+Palestine,PSE,2022,100,Middle East,,0.5027174
+Panama,PAN,2022,95,North America,0.839,1.2881935
+Papua New Guinea,PNG,2022,19,Oceania,0.576,39.68331
+Paraguay,PRY,2022,100,South America,0.756,1.3295585
+Peru,PER,2022,96.2,South America,0.794,2.656552
+Philippines,PHL,2022,94.8,Asia,0.72,6.754131
+Poland,POL,2022,100,Europe,0.906,0.10752012
+Portugal,PRT,2022,100,Europe,0.89,0.22650385
+Puerto Rico,PRI,2022,100,North America,,
+Qatar,QAT,2022,100,Middle East,0.886,0
+Romania,ROU,2022,100,Europe,0.845,1.7570449
+Russia,RUS,2022,100,Europe,,0.010298438
+Rwanda,RWA,2022,50.6,Africa,0.578,52.005394
+Saint Kitts and Nevis,KNA,2022,100,North America,0.84,
+Saint Lucia,LCA,2022,100,North America,0.748,5.222044
+Saint Vincent and the Grenadines,VCT,2022,100,North America,0.798,
+Samoa,WSM,2022,98.3,Oceania,0.708,1.1502274
+San Marino,SMR,2022,100,Europe,0.915,
+Saudi Arabia,SAU,2022,100,Middle East,0.9,
+Senegal,SEN,2022,67.9,Africa,0.53,9.926822
+Serbia,SRB,2022,100,Europe,0.833,1.2428293
+Seychelles,SYC,2022,100,Africa,0.848,0.51100403
+Sierra Leone,SLE,2022,29.4,Africa,0.467,26.062035
+Singapore,SGP,2022,100,Asia,0.946,
+Slovakia,SVK,2022,100,Europe,0.88,0.10148099
+Slovenia,SVN,2022,100,Europe,0.931,0
+Solomon Islands,SLB,2022,76,Oceania,0.584,26.564884
+Somalia,SOM,2022,48.9,Africa,0.404,
+South Africa,ZAF,2022,86.5,Africa,0.741,20.492558
+South Korea,KOR,2022,100,Asia,,0
+South Sudan,SSD,2022,8.4,Africa,0.388,67.32727
+Spain,ESP,2022,100,Europe,0.918,0.5642503
+Sri Lanka,LKA,2022,100,Asia,0.776,0.95861256
+Sudan,SDN,2022,63.2,Africa,0.511,15.26306
+Suriname,SUR,2022,99,South America,0.722,1.1043117
+Sweden,SWE,2022,100,Europe,0.959,0.6292847
+Switzerland,CHE,2022,100,Europe,0.97,0.037200913
+Syria,SYR,2022,89,Middle East,,24.835932
+Tajikistan,TJK,2022,100,Asia,0.691,6.114529
+Tanzania,TZA,2022,45.8,Africa,,44.94932
+Thailand,THA,2022,99.9,Asia,0.798,0.013972186
+Togo,TGO,2022,57.2,Africa,0.571,26.59183
+Tonga,TON,2022,100,Oceania,0.769,0.01921559
+Trinidad and Tobago,TTO,2022,100,North America,0.807,1.343
+Tunisia,TUN,2022,100,Africa,0.746,0.27373365
+Turkey,TUR,2022,100,Middle East,,0.44286466
+Turkmenistan,TKM,2022,100,Asia,0.764,43.115105
+Tuvalu,TUV,2022,100,Oceania,0.689,3.625352
+Uganda,UGA,2022,47.1,Africa,0.582,42.11563
+Ukraine,UKR,2022,100,Europe,0.779,0.028825609
+United Arab Emirates,ARE,2022,100,Middle East,0.94,0
+United Kingdom,GBR,2022,100,Europe,0.946,0.24510054
+United States,USA,2022,100,North America,0.938,1.2491857
+Uruguay,URY,2022,100,South America,0.862,0.15517578
+Uzbekistan,UZB,2022,100,Asia,0.74,2.2530925
+Vanuatu,VUT,2022,70,Oceania,0.621,9.963333
+Venezuela,VEN,2022,100,South America,,7.1300364
+Vietnam,VNM,2022,100,Asia,,0.9637949
+Yemen,YEM,2022,76,Middle East,0.47,19.802757
+Zambia,ZMB,2022,47.8,Africa,0.595,64.349754
+Zimbabwe,ZWE,2022,50.1,Africa,0.598,39.75453

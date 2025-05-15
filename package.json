@@ -1,0 +1,35 @@
+{
+    "name": "satnam-energy-strategies",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build && next export",
+        "deploy": "npm run build && gh-pages -d out"
+    },
+    "dependencies": {
+        "@mdx-js/loader": "^3.0.0",
+        "@mdx-js/react": "^3.0.0",
+        "@next/mdx": "^14.0.4",
+        "d3": "^7.8.5",
+        "d3-geo": "^3.1.0",
+        "date-fns": "^2.30.0",
+        "framer-motion": "^10.16.4",
+        "next": "14.0.4",
+        "plotly.js-dist": "^3.0.1",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "react-globe": "^5.0.2",
+        "react-globe.gl": "^2.33.2",
+        "react-use": "^17.4.0",
+        "topojson-client": "^3.1.0"
+    },
+    "devDependencies": {
+        "autoprefixer": "^10.4.16",
+        "eslint": "^8.55.0",
+        "eslint-config-next": "14.0.4",
+        "gh-pages": "^6.3.0",
+        "postcss": "^8.4.31",
+        "tailwindcss": "^3.3.5"
+    }
+}

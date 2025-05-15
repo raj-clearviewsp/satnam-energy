@@ -1,0 +1,8 @@
+# --- Next.js / Node ---
+node_modules/
+.next/
+out/
+dist/
+npm-debug.log*
+.env*
+.DS_Store
