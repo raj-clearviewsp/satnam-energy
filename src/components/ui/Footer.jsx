@@ -90,11 +90,11 @@ export default function Footer() {
           <div>
             <h3 className="text-lg font-semibold mb-4">Contact</h3>
             <address className="not-italic text-graphite">
-              <p>info@satnam-energy.com</p>
-              <p className="mt-2">+1 (202) 555-1234</p>
+              <p>info@satnamenergy.com</p>
+              <p className="mt-2">+1 (714) 878-4300</p>
               <p className="mt-2">
-                1234 Clean Energy Blvd<br />
-                Washington, DC 20001
+                1600 East 4th Street<br />
+                Santa Ana, CA 92701
               </p>
             </address>
           </div>
