@@ -183,7 +183,7 @@ export default function InsightsPage() {
       <section ref={ref} className="py-20" id="case-studies">
         <div className="container mx-auto px-4">
           <h2 className="text-3xl font-bold text-center mb-3 text-night-navy">
-            Proof in Practice: Insights that Moved Real Megawatts
+            Proof in Practice: Insights Powering Energy Growth
           </h2>
           
           <p className="text-xl text-center text-graphite mb-16 max-w-3xl mx-auto">

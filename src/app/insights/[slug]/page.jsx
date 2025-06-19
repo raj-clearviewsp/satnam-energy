@@ -131,11 +131,11 @@ export default function InsightReader({ params }) {
           </svg>
           <h2 className="text-night-navy text-2xl font-semibold mb-2">PDF unavailable</h2>
           <p className="text-graphite max-w-md">
-            This insight doesn’t include an embeddable PDF yet. Please&nbsp;
+            This insight doesn't include an embeddable PDF yet. Please&nbsp;
             <Link href="/contact" className="text-sky-cyan font-medium hover:underline">
               get in touch
             </Link>{' '}
-            if you’d like more information.
+            if you'd like more information.
           </p>
         </main>
       </div>
