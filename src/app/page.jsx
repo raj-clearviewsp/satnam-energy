@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import CoverRibbons from '@/components/charts/CoverRibbons';
 import FeaturedChart from '@/components/charts/FeaturedChart';
 import { FEATURED, TALKS, WORK } from '@/content/work';
 
@@ -29,17 +30,7 @@ export default function HomePage() {
                 </p>
               </div>
             </div>
-            <figure>
-              <img
-                src="/brand/plants-map.png"
-                width="1160"
-                height="720"
-                alt="Map of South and Southeast Asia drawn only from its power plants: about 2,650 dots, larger for larger plants."
-              />
-              <figcaption>
-                Each dot is a power plant, sized by capacity. Source: WRI Global Power Plant Database.
-              </figcaption>
-            </figure>
+            <CoverRibbons />
           </div>
         </section>
       </div>
