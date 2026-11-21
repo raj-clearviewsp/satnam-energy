@@ -250,3 +250,12 @@ table.plain td:first-child { font-weight: 600; white-space: nowrap; }
 .cover-fig .cover-band { font-size: 12.5px; fill: #fff; }
 .cover-fig .cover-tick { font-size: 12px; fill: var(--mist); }
 .cover-fig .key { display: inline-block; width: 9px; height: 9px; margin: 0 3px 0 4px; border-radius: 2px; }
+
+/* When the cover text sits beside the chart, centre it on the plot itself: the big number sits in the row
+   above and the source line in the row below, so they don't pull the centre off. */
+@media (min-width: 900px) {
+  .cover-row { display: grid; grid-template-columns: minmax(300px, 400px) minmax(0, 1fr); grid-template-rows: auto auto auto; gap: 0 clamp(32px, 5vw, 72px); align-items: start; }
+  .ideas { grid-column: 1; grid-row: 2; align-self: center; padding: 0 0 28px; }
+  .cover-fig { grid-column: 2; grid-row: 1 / span 3; display: grid; grid-template-rows: subgrid; }
+  .cover-plot { align-self: center; }
+}

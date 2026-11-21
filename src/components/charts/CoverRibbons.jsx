@@ -63,7 +63,7 @@ export default function CoverRibbons() {
           ) : null}
         </div>
       </div>
-      <div ref={ref}>
+      <div ref={ref} className="cover-plot">
         <svg
           width={w}
           height={H}
